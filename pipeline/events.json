@@ -1,0 +1,38 @@
+{
+  "_readme": "Курируемая таблица инфраструктурных событий Астаны. Каждое событие: статус (announced/under_construction/opened), эффект-предположение из литературы (uplift_pct на расстоянии near_m), источники. Коэффициенты — ОТКРЫТЫЕ ДОПУЩЕНИЯ из исследований transit premium, не оценки на наших данных. near_slugs — ручная привязка ЖК, пока нет геокодинга.",
+  "events": [
+    {
+      "id": "lrt-launch-2026",
+      "kind": "rail_system",
+      "title": "Запуск Astana LRT: 18 станций, аэропорт — вокзал Нурлы жол, 22.4 км",
+      "status": "opened",
+      "date": "2026-05-16",
+      "uplift_pct_near": 7,
+      "near_m": 800,
+      "uplift_pct_mid": 3,
+      "mid_m": 1500,
+      "realization": "поэтапно 1-2 года после запуска; часть эффекта уже в ценах (объявления упоминают ЛРТ как преимущество)",
+      "near_hint": "пр. Кабанбай батыра, Ботанический сад, Mega Silk Way, Abu Dhabi Plaza",
+      "near_slugs": ["vremena-goda-vesna", "vremena-goda-osen"],
+      "sources": [
+        {"title": "Tengrinews — схема Astana LRT: 18 станций, маршрут и дата запуска", "url": "https://tengrinews.kz/kazakhstan_news/poyavilas-shema-dvijeniya-i-nazvaniya-stantsiy-astana-lrt-599301/"},
+        {"title": "zakon.kz — карта остановок LRT (май 2026)", "url": "https://www.zakon.kz/obshestvo/6517955-opublikovana-karta-ostanovok-LRT-v-astane.html"}
+      ]
+    },
+    {
+      "id": "template-school",
+      "kind": "school",
+      "title": "ШАБЛОН: новая школа в квартале X (заменить реальным событием из акимата)",
+      "status": "announced",
+      "date": null,
+      "uplift_pct_near": 3,
+      "near_m": 600,
+      "uplift_pct_mid": 1,
+      "mid_m": 1200,
+      "realization": "после открытия; анонсы в КЗ часто сдвигаются — дисконт 50% к статусу announced",
+      "near_slugs": [],
+      "sources": []
+    }
+  ],
+  "status_discount": {"announced": 0.4, "under_construction": 0.7, "opened": 1.0}
+}

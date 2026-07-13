@@ -1,0 +1,32 @@
+[
+  {"id":"1010546209","complexSlug":"vremena-goda-vesna","rooms":2,"area":68,"floor":"10/15","price":41500000,"year":2017,"condition":"требует ремонта","address":"Кабанбай батыра 48А","url":"https://krisha.kz/a/show/1010546209","demo":false},
+  {"id":"1010911924","complexSlug":"vremena-goda-vesna","rooms":2,"area":67,"floor":"2/15","price":46000000,"year":2017,"condition":"свежий ремонт","address":"Кабанбай батыра 48","url":"https://krisha.kz/a/show/1010911924","urgent":true,"demo":false},
+  {"id":"1011516255","complexSlug":"vremena-goda-vesna","rooms":2,"area":66.2,"floor":"4/14","price":39000000,"year":2017,"condition":"хорошее","address":"Кабанбай батыра 48а","url":"https://krisha.kz/a/show/1011516255","demo":false},
+  {"id":"1012479074","complexSlug":"vremena-goda-vesna","rooms":2,"area":67,"floor":"11/15","price":50000000,"year":2017,"condition":"аккуратный ремонт","address":"Кабанбай батыра 46","url":"https://krisha.kz/a/show/1012479074","demo":false},
+  {"id":"1011939863","complexSlug":"vremena-goda-vesna","rooms":2,"area":66.2,"floor":"4/14","price":39000000,"year":2017,"condition":"хорошее","address":"Кабанбай батыра 46","url":"https://krisha.kz/a/show/1011939863","dupSuspect":true,"demo":false},
+  {"id":"696279351","complexSlug":"vremena-goda-vesna","rooms":2,"area":67,"floor":"2/15","price":43000000,"year":2017,"condition":"требует ремонта","address":"Кабанбай батыра 48а","url":"https://krisha.kz/a/show/696279351","urgent":true,"demo":false},
+  {"id":"1011168917","complexSlug":"vremena-goda-vesna","rooms":2,"area":37.6,"floor":"3/6","price":34500000,"year":2019,"condition":"евродвушка","address":"Кабанбай батыра 48/1","url":"https://krisha.kz/a/show/1011168917","demo":false},
+  {"id":"1012360146","complexSlug":"vremena-goda-vesna","rooms":2,"area":64.8,"floor":"9/15","price":45500000,"year":2017,"condition":"хорошее","address":"Кабанбай батыра 48А","url":"https://krisha.kz/a/show/1012360146","demo":false},
+  {"id":"1013196022","complexSlug":"vremena-goda-vesna","rooms":2,"area":58,"floor":"6/15","price":39800000,"year":2018,"condition":"аккуратный ремонт","address":"Кабанбай батыра 48а","url":"https://krisha.kz/a/show/1013196022","demo":false},
+  {"id":"1013018413","complexSlug":"vremena-goda-vesna","rooms":2,"area":66,"floor":"4/15","price":39000000,"year":2017,"condition":"свежий ремонт","address":"Кабанбай батыра 48а","url":"https://krisha.kz/a/show/1013018413","demo":false},
+  {"id":"1010732664","complexSlug":"vremena-goda-vesna","rooms":2,"area":58.8,"floor":"1/15","price":40000000,"year":2017,"condition":"потолки 3.5 м","address":"Кабанбай батыра 48","url":"https://krisha.kz/a/show/1010732664","urgent":true,"demo":false},
+  {"id":"1013514090","complexSlug":"vremena-goda-vesna","rooms":2,"area":60,"floor":"5/15","price":50500000,"year":2017,"condition":"евроремонт","address":"Кабанбай батыра, Ботанический сад","url":"https://krisha.kz/a/show/1013514090","demo":false},
+
+  {"id":"1010978921","complexSlug":"vremena-goda-osen","rooms":2,"area":48,"floor":"1/9","price":33000000,"year":2017,"condition":"аккуратный ремонт","address":"Керей и Жанибек хандар 12/1","url":"https://krisha.kz/a/show/1010978921","demo":false},
+  {"id":"demo-osen-1","complexSlug":"vremena-goda-osen","rooms":1,"area":41,"floor":"10/10","price":29500000,"year":2017,"condition":"хорошее","address":"Керей и Жанибек хандар 12/1","url":"","demo":true},
+  {"id":"demo-osen-2","complexSlug":"vremena-goda-osen","rooms":2,"area":52,"floor":"5/9","price":35000000,"year":2017,"condition":"хорошее","address":"Керей и Жанибек хандар 12/1","url":"","demo":true},
+
+  {"id":"demo-pcf-1","complexSlug":"parkcityforum","rooms":2,"area":67,"floor":"8/16","price":36000000,"year":2025,"condition":"черновая","address":"ул. Е-429, 26","url":"","demo":true},
+  {"id":"demo-pcf-2","complexSlug":"parkcityforum","rooms":1,"area":45,"floor":"12/18","price":24500000,"year":2025,"condition":"черновая","address":"ул. Е-429, 26","url":"","demo":true},
+  {"id":"demo-pcf-3","complexSlug":"parkcityforum","rooms":3,"area":100,"floor":"4/12","price":54000000,"year":2025,"condition":"черновая","address":"ул. Е-429, 26","url":"","demo":true},
+
+  {"id":"demo-manar-1","complexSlug":"manar","rooms":1,"area":44.92,"floor":"н/д","price":29871800,"year":2026,"condition":"от застройщика","address":"ул. Е 496, 7","url":"https://krisha.kz/complex/show/astana/manar/","demo":true},
+  {"id":"demo-manar-2","complexSlug":"manar","rooms":2,"area":67.19,"floor":"н/д","price":44009450,"year":2026,"condition":"от застройщика","address":"ул. Е 496, 7","url":"https://krisha.kz/complex/show/astana/manar/","demo":true},
+  {"id":"demo-manar-3","complexSlug":"manar","rooms":3,"area":100.31,"floor":"н/д","price":62693750,"year":2026,"condition":"от застройщика","address":"ул. Е 496, 7","url":"https://krisha.kz/complex/show/astana/manar/","demo":true},
+
+  {"id":"demo-rauda-1","complexSlug":"rauda","rooms":3,"area":80.5,"floor":"н/д","price":46690000,"year":2025,"condition":"от застройщика","address":"Проспект Туран, 71","url":"https://krisha.kz/complex/show/astana/rauda/","demo":true},
+  {"id":"demo-rauda-2","complexSlug":"rauda","rooms":2,"area":60,"floor":"н/д","price":36500000,"year":2025,"condition":"от застройщика","address":"Проспект Туран, 71","url":"","demo":true},
+
+  {"id":"demo-isma-1","complexSlug":"isma","rooms":1,"area":51.86,"floor":"н/д","price":36872460,"year":2026,"condition":"от застройщика","address":"ул. Шамши Калдаяков, 16","url":"https://krisha.kz/complex/show/astana/isma/","demo":true},
+  {"id":"demo-isma-2","complexSlug":"isma","rooms":3,"area":115.92,"floor":"н/д","price":72913680,"year":2026,"condition":"от застройщика","address":"ул. Шамши Калдаяков, 16","url":"https://krisha.kz/complex/show/astana/isma/","demo":true}
+]

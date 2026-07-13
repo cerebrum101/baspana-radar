@@ -1,0 +1,80 @@
+[
+  {
+    "slug": "vremena-goda-vesna",
+    "name": "ЖК Времена года. Весна",
+    "district": "Есильский",
+    "class": "комфорт",
+    "developerBrand": "BI Group",
+    "developerLegal": "ТОО «KazIndustrialGroup» (уполномоч. ТОО «Аманат Строй»)",
+    "built": "2016–2019",
+    "floors": "4–15",
+    "status": "сдан",
+    "address": "пр. Кабанбай батыра, 46, 46а, 46б – ул. Керей и Жанибек хандар",
+    "krishaUrl": "https://krisha.kz/complex/show/vremena-goda-vesna/"
+  },
+  {
+    "slug": "vremena-goda-osen",
+    "name": "ЖК Времена года. Осень",
+    "district": "Есильский",
+    "class": "эконом",
+    "developerBrand": "BI Group",
+    "developerLegal": "ТОО «KazIndustrialGroup» (уполномоч. ТОО «Аманат Строй»)",
+    "built": "2017",
+    "floors": "9",
+    "status": "сдан",
+    "address": "ул. Керей и Жанибек хандар, 12/1 – Сауран",
+    "krishaUrl": "https://krisha.kz/complex/show/astana/vremena-goda/"
+  },
+  {
+    "slug": "parkcityforum",
+    "name": "ЖК Park City Forum",
+    "district": "Нура",
+    "class": "комфорт",
+    "developerBrand": "SAT-NS",
+    "developerLegal": "SAT-NS",
+    "built": "2025",
+    "floors": "12–18",
+    "status": "сдан",
+    "address": "ул. Е-429, 26",
+    "krishaUrl": "https://krisha.kz/complex/show/astana/parkcityforum/"
+  },
+  {
+    "slug": "manar",
+    "name": "ЖК Manar",
+    "district": "Есильский",
+    "class": "комфорт",
+    "developerBrand": "Sensata Group",
+    "developerLegal": "Sensata Group",
+    "built": "строится",
+    "floors": "н/д",
+    "status": "строится",
+    "address": "ул. Е 496, 7",
+    "krishaUrl": "https://krisha.kz/complex/show/astana/manar/"
+  },
+  {
+    "slug": "rauda",
+    "name": "ЖК RAUDA",
+    "district": "Нура",
+    "class": "комфорт",
+    "developerBrand": "ISMA Invest",
+    "developerLegal": "ISMA Invest",
+    "built": "2025",
+    "floors": "н/д",
+    "status": "сдан",
+    "address": "Проспект Туран, 71",
+    "krishaUrl": "https://krisha.kz/complex/show/astana/rauda/"
+  },
+  {
+    "slug": "isma",
+    "name": "ЖК Isma",
+    "district": "Сарайшык",
+    "class": "комфорт",
+    "developerBrand": "ISMA Invest",
+    "developerLegal": "ISMA Invest",
+    "built": "строится",
+    "floors": "н/д",
+    "status": "строится",
+    "address": "ул. Шамши Калдаяков, 16",
+    "krishaUrl": "https://krisha.kz/complex/show/astana/isma/"
+  }
+]
