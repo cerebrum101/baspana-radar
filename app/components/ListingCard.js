@@ -16,7 +16,7 @@ export default function ListingCard({ l }) {
         {fmt(l.price)} ₸
       </div>
       <div className="spec">{spec}</div>
-      <div className="cx">{l.complex_name_raw || "Без ЖК"}</div>
+      <div className="cx">{l.complex_name_raw || l.address || "Вторичное жильё"}</div>
       <div className="loc">
         {l.district || ""}{l.year_built ? ` · ${l.year_built} г.` : ""}
       </div>
